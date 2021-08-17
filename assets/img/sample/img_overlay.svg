@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="448px" viewBox="0 0 1000 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img_overlay</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.4">
+        <path d="M4,0 L996,0 C998.209139,6.19376053e-14 1000,1.790861 1000,4 L1000,447.916667 L1000,447.916667 L0,447.916667 L0,4 C-7.1463071e-16,1.790861 1.790861,-3.82769592e-17 4,0 Z" id="img_overlay" fill="#000000"></path>
+    </g>
+</svg>

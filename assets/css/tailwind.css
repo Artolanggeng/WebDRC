@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    * {
+        @apply transition duration-500 ease-in-out;
+    }
+    html, body{
+        @apply bg-drc-gray-1 text-drc-gray-5 font-montserrat-alternates text-drc-base;
+    },
+    h1{
+        @apply text-drc-h1-base md:text-drc-h1-md lg:text-drc-h1-lg mb-4 font-manjari font-bold;
+    },
+    h2{
+        @apply text-drc-h2-base md:text-drc-h2-md lg:text-drc-h2-lg mb-4 font-manjari font-bold;
+    },
+    h3{
+        @apply text-drc-h3 mb-4 font-manjari font-bold;
+    },
+    h4{
+        @apply text-drc-h4 mb-4 font-manjari font-bold;
+    },
+    h5{
+        @apply text-drc-h5 mb-4 font-manjari font-semibold;
+    }
+    img {
+        @apply border-none
+    }
+}
